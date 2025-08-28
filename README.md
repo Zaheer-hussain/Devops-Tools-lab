@@ -1,5 +1,5 @@
 # Devops-Tools-lab
-Hi this is zaheer <br>
-I am happy <br>
-I like chapati
+- Hi this is zaheer 
+- I am happy 
+- I like chapati
 
